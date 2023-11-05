@@ -1,7 +1,7 @@
 {
   "manifest_version": "ext-v1",
-  "name": "Techmaniac (Godot)",
-  "short_name": "Techmaniac (Godot)",
+  "name": "Techmaniac",
+  "short_name": "Techmaniac",
   "description": "Extension description",
   "version": "1.0.0",
   "author": "EXT, Inc.",
