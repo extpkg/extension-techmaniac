@@ -1,6 +1,6 @@
 # Techmaniac
 
-Extension description
+Embark with Roy to reclaim his treasured hoard from the outdoors!
 
 ## Build
 

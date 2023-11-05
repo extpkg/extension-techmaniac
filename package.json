@@ -1,7 +1,7 @@
 {
   "name": "extension-techmaniac",
   "version": "1.0.0",
-  "description": "Extension description",
+  "description": "Embark with Roy to reclaim his treasured hoard from the outdoors!",
   "type": "module",
   "scripts": {
     "dev": "nodemon",
