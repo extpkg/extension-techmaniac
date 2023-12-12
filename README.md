@@ -13,3 +13,6 @@ Embark with Roy to reclaim his treasured hoard from the outdoors!
 
 Run `npm run dev` to watch `src` and `public` directories and rebuild the
 project on changes
+
+## Source
+https://bitbucket.org/JohnGabrielUK/techmaniac/src/master/
